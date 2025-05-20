@@ -1,5 +1,5 @@
 // Check the number of command-line arguments 
-const args = process.argv.slice(2);
+const args = "Tarik JB";
 
 if (args.length === 0) {
   console.log("No argument");
